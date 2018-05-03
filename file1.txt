@@ -1,3 +1,2 @@
 Welcome to the DevOps learning 
-This is the modification in the file after initial commit in Github
-
+This is the modification in the file after initial commit in Git
